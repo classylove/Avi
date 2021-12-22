@@ -8,8 +8,8 @@
 </p>
 
 # Fᴏʀᴋ ᴀɴᴅ sᴛᴀʀs 
-<a href="https://github.com/D3stroyer-xD/Royal-SpamBot/stargazers"><img src="https://img.shields.io/github/stars/D3stroyer-xD/Royal-SpamBot?style=social"></a> 
-<a href="https://github.com/D3stroyer-xD/Royal-SpamBot/fork"><img src="https://img.shields.io/github/forks/D3stroyer-xD/Royal-SpamBot?label=Fork&logoColor=blue&style=social"></a> <br>  
+<a href="https://github.com/classylove/avi/stargazers"><img src="https://img.shields.io/github/stars/D3stroyer-xD/Royal-SpamBot?style=social"></a> 
+<a href="https://github.com/classylove/avi/fork"><img src="https://img.shields.io/github/forks/D3stroyer-xD/Royal-SpamBot?label=Fork&logoColor=blue&style=social"></a> <br>  
 <hr/> 
 
 # Mᴀɪɴᴛᴇɴᴀɴᴄᴇ Sᴛᴀᴛs
@@ -29,7 +29,7 @@
 ## ✧✧ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴜᴋᴏ✧✧
 
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/D3stroyer-xD/Royal-SpamBot) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/classylove/avi) 
 
 ------------------------------------------------
 
