@@ -49,5 +49,5 @@
      
 
 ##✧✧ᴄʀᴇᴅɪᴛs✧✧
-𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 :[𝐑𝐨𝐲𝐚𝐥𝐍𝐞𝐭𝐰𝐨𝐫𝐤](https://t.me/II_RoyalNetwork_II)
-𝐎𝐖𝐍𝐄𝐑 :- [𝐃𝟑𝐬𝐭𝐫𝐨𝐲𝐞𝐫 𝐊𝐢𝐧𝐠](https://t.me/d3stroyer_xD)
+𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 :[𝐑𝐨𝐲𝐚𝐥𝐍𝐞𝐭𝐰𝐨𝐫𝐤](https://t.me/the_secret_organization)
+𝐎𝐖𝐍𝐄𝐑 :- [𝐃𝟑𝐬𝐭𝐫𝐨𝐲𝐞𝐫 𝐊𝐢𝐧𝐠](https://t.me/S_e_l_f_i_s_h_x_7)
